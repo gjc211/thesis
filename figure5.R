@@ -1,5 +1,5 @@
 #####
-load("fig5.RData") # refer to figure8.R
+load("fig5.RData") # refer to figure8-9.R
 ##### 
 
 # forward filtering
