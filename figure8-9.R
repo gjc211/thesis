@@ -276,7 +276,7 @@ lines(b878$time,exp(2.303*lower),log="y",col="darkblue",lty=2)
 
 #######################################################
 
-save(m_b,m_wf,m_wr,m_ge,file="fig2.RData")
+save(m_b,m_wf,m_wr,m_ge,sd_b,sd_wf,sd_wr,sd_ge,file="fig2.RData")
 save(y1,y1_wf,y1_wr,y1_ge,mean,upper,lower, file="fig5.RData")
 
 
