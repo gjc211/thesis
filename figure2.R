@@ -1,5 +1,5 @@
 ################## 
-load("fig2.RData") # refer to figure8.R
+load("fig2.RData") # refer to figure8-9.R
 ################## 
 
 seq <- seq(-1.5,1,length=5000)
