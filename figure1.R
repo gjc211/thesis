@@ -46,7 +46,7 @@ lines(b878$time,exp(2.303*y1_ge),log="y",col="darkslategray4")
 
 #############
 
-save(y1,y1_wf,y1_wr,y1_ge, file="fig8.RData")
+save(b878,y1,y1_wf,y1_wr,y1_ge, file="fig8.RData")
 
 
 
